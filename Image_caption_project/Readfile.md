@@ -8,9 +8,9 @@ The dataset consists of input images and their corresponding output captions
 The dataset that I used is MS COCO 2017 [1] that consists of 18K Image
 ex Git :
 You can run the code to download dataset
-"""
+'''
 !kaggle datasets download -d awsaf49/coco-2017-dataset
-"""
+'''
 
 ## References
 [1] https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset
